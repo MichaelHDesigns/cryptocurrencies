@@ -31718,6 +31718,12 @@
             "external_id": { "coingecko": "simplicity-coin" }
         },
         {
+            "id": "unsupported|pensacoin",
+            "code": "spl",
+            "name": "Pensacoin",
+            "external_id": { "coingecko": "pnsacoin" }
+        },
+        {
             "id": "erc20|0x16587cf43f044aba0165ffa00acf412631194e4b",
             "code": "src",
             "name": "Simracer Coin",
