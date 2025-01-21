@@ -8934,6 +8934,14 @@
             "ethereum": "0x01b23286ff60a543ec29366ae8d6b6274ca20541"
         }
     },
+        {
+        "id": "pensacoin",
+        "symbol": "pnsacoin",
+        "name": "Pensacoin",
+        "platforms": {
+            "solana": "2L4iRJeYKVJM3Dkk1XBTwn4DMPfneUA9C6KjkMUTRkz6"
+        }
+    },
     {
         "id": "brz",
         "symbol": "brz",
